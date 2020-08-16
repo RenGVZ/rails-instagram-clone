@@ -11,6 +11,8 @@ gem 'pg'
 gem 'bootstrap', '~> 5.0.0.alpha1'
 # J-query gem
 gem 'jquery-rails'
+# Font-awesome
+gem 'font-awesome-rails'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
