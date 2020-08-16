@@ -13,6 +13,8 @@ gem 'bootstrap', '~> 5.0.0.alpha1'
 gem 'jquery-rails'
 # Font-awesome
 gem 'font-awesome-rails'
+# Devise gem
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
